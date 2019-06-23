@@ -1,0 +1,42 @@
+.card-img-top{
+    width: 7%;
+}
+
+.d-inline{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#a{
+    margin-left: 39%;
+    margin-right: 46%;
+    font-size: 25px;
+}
+
+.jumbotron{
+    background: #FF4262;
+}
+
+.logbtn{
+    width: 40%;
+    border-radius: 67px;
+    height: 75px;
+}
+
+.form-control{
+    border-radius: 52px;
+    width: 40%;
+    margin-left: 30%;
+    height: 75px;
+}
+
+.apple{
+    width: 10%;
+}
+
+.play{
+    width: 10%;
+}
+.btn2{
+    background: #fff;
+}
